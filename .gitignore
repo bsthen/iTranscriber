@@ -1,4 +1,7 @@
 env/
 *.mp3
+*.docx
 build/
 dist/
+.DS_Store
+__pycache__/
