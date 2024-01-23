@@ -11,50 +11,50 @@ iTranscriber can assist you in transcribing audio files (audio.mp3) to text file
 
 ## Installations
 
-    Clone the iTranscriber repository:
+Clone the iTranscriber repository:
 
-    ```sh
-    git clone https://github.com/bsthen/iTranscriber.git && cd iTranscriber
-    ```
+```sh
+git clone https://github.com/bsthen/iTranscriber.git && cd iTranscriber
+```
 
-    Create a virtual environment:
+Create a virtual environment:
 
-    ```sh
-    python3.10 -m venv env
-    ```
+```sh
+python3.10 -m venv env
+```
 
-    If you don't have virtual environments installed, you can find instructions [here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
+If you don't have virtual environments installed, you can find instructions [here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
 
-    Activate the environment on Linux or macOS:
+Activate the environment on Linux or macOS:
 
-    ```sh
+```sh
 
-    source env/bin/activate
-    ```
+source env/bin/activate
+```
 
-    Or activate the environment on Windows:
+Or activate the environment on Windows:
 
-    ```sh
+```sh
 
-    \env\Scripts\activate.bat
-    ```
+\env\Scripts\activate.bat
+```
 
-    Install dependencies:
+Install dependencies:
 
-    ```sh
+```sh
 
-    pip3 install -r requirements.txt
-    ```
+pip3 install -r requirements.txt
+```
 
 ## Running the Application
 
-    ```sh
-    python3.10 main.py
-    ```
+```sh
+python3.10 main.py
+```
 
-    Follow the instructions on the console of iTranscriber.
+Follow the instructions on the console of iTranscriber.
 
-    ## Note
+## Note
 
-    - The transcription process may take a significant amount of time for your audio file.
-    - During the initial setup, the project will take one or two minutes to download AI models. So, relax, grab a coffee, and enjoy the process.
+- The transcription process may take a significant amount of time for your audio file.
+- During the initial setup, the project will take one or two minutes to download AI models. So, relax, grab a coffee, and enjoy the process.
