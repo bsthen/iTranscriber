@@ -57,4 +57,6 @@ Follow the instructions on the console of iTranscriber.
 ## Note
 
 - The transcription process may take a significant amount of time for your audio file.
-- During the initial setup, the project will take one or two minutes to download AI models. So, relax, grab a coffee, and enjoy the process.
+- During the initial setup, the project will take one or two minutes to download AI models.
+
+So, relax, grab a coffee, and enjoy the process ☕️💖.
