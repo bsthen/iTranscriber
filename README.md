@@ -20,7 +20,7 @@ git clone https://github.com/bsthen/iTranscriber.git && cd iTranscriber
 Create a virtual environment:
 
 ```sh
-python3.10 -m venv env
+python3 -m venv env
 ```
 
 If you don't have virtual environments installed, you can find instructions [here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
@@ -49,7 +49,7 @@ pip3 install -r requirements.txt
 ## Running the Application
 
 ```sh
-python3.10 main.py
+python3 main.py
 ```
 
 Follow the instructions on the console of iTranscriber.
