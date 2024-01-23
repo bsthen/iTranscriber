@@ -8,6 +8,7 @@ iTranscriber can assist you in transcribing audio files (audio.mp3) to text file
 
 - Python3.11
 - OpenAI Wishper
+- Support Only English
 
 ## Installations
 
