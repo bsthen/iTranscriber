@@ -4,7 +4,7 @@ import os
 
 model = whisper.load_model("base.en")
 
-audio_out = input("\n🎤️ Enter the path of the audio file.mp3: ")
+audio_out = input("\n📼 Enter the path of the audio file.mp3: ")
 
 # Remove single and double quotes from the file path
 audio_out = audio_out.replace("'", "").replace('"', '')
@@ -12,6 +12,7 @@ audio_out = audio_out.replace("'", "").replace('"', '')
 ## check mp3 file
 if audio_out[-4:] != ".mp3":
     print("🚫 Please enter a valid mp3 file")
+    input("\nPress Enter to exit...")
     exit()
 
 audio_out = os.path.normpath(audio_out)
