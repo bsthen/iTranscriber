@@ -8,7 +8,8 @@ iTranscriber can assist you in transcribing audio files (audio.mp3) to text file
 
 - Python3.11
 - OpenAI Wishper
-- Support Only English
+- FFMPEG (Installation on [Windows](https://phoenixnap.com/kb/ffmpeg-windows), [Mac](https://phoenixnap.com/kb/ffmpeg-mac) or [Ubuntu](https://phoenixnap.com/kb/install-ffmpeg-ubuntu))
+- Audio Speak In English
 
 ## Installations
 
