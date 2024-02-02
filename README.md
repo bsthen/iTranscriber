@@ -19,6 +19,8 @@ Clone the iTranscriber repository:
 git clone https://github.com/bsthen/iTranscriber.git && cd iTranscriber
 ```
 
+Double click **install.bat** Or
+
 Create a virtual environment:
 
 ```sh
@@ -53,6 +55,8 @@ pip3 install -r requirements.txt
 ```sh
 python3 main.py
 ```
+
+Or double click on **iTranscriber.bat**
 
 Follow the instructions on the console of iTranscriber.
 
